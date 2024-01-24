@@ -1,6 +1,6 @@
 # BI_Analysis-Sales
 
-Projeto destinado a limpeza, tratamento e análise de dados de uma empresa de varejo, com sede no Reino Unido e que iniciou a expanção das suas operações de vendas para outros países.
+Projeto destinado a limpeza, tratamento e análise de dados de uma empresa de varejo, com sede no Reino Unido e que iniciou a expansão das suas operações de vendas para outros países.
 
 ## Insights
 
@@ -70,11 +70,11 @@ Clique em "Download ZIP"
 
 **Passo 3:**
 
-Desconpacte a pasta que você terminaou de baixar.
+Descompacte a pasta que você terminou de baixar.
 
 **Passo 4:**
 
-Abra os projetos contendo a extenção ".ipynb".
+Abra os projetos contendo a extensão ".ipynb".
 
 #### *Método 2:* Clonar o repositório
 
@@ -86,7 +86,7 @@ Crie uma pasta na qual você tenha permissão de escrita.
 
 **Passo 2:**
 
-Abra um terminal a partir da pasta recém criada ou nevegue até ela pelo terminal.
+Abra um terminal a partir da pasta recém criada ou navegue até ela pelo terminal.
 
 **Passo 3:**
 
@@ -110,11 +110,11 @@ Aguarde a clonagem do repositório terminar.
 
 **Passo 6:**
 
-Abra os projetos contendo a extenção ".ipynb".
+Abra os projetos contendo a extensão ".ipynb".
 
 ## Problemas enfrentados
 
-O código poderá enfrentar problemas ao ser executado utilizando versões diferentes de linguagem e bibliotecas. Certifique-se de que as versões listadas no ítem "Dependências e Versões Necessárias" estão corretamente instaladas.
+O código poderá enfrentar problemas ao ser executado utilizando versões diferentes de linguagem e bibliotecas. Certifique-se de que as versões listadas no item "Dependências e Versões Necessárias" estão corretamente instaladas.
 
 Caso já exista um ambiente de desenvolvimento com versões diferentes em uso na máquina utilizada, uma boa alternativa seria a criação de uma ambiente virtual de desenvolvimento. Em caso de dúvida, segue o link da documentação.
 [Ambientes virtuais e pacotes](https://docs.python.org/pt-br/3/tutorial/venv.html)
